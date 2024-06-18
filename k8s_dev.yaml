@@ -20,7 +20,7 @@ spec:
     spec:
       containers:
         - name: react-ui
-          image: vikashashoke/ui
+          image: raam2023/raam-ui-demo
           imagePullPolicy: IfNotPresent
           resources:
             limits:
