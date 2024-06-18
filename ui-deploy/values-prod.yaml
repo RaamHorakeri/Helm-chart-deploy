@@ -1,6 +1,6 @@
 app:
   replicas: 4
-  image: vikashashoke/ui
+  image: raam2023/raam-ui-demo
   env: prod
   computeres:
     limits:
